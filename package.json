@@ -1,0 +1,30 @@
+{
+  "name": "meteor_beginning",
+  "version": "1.0.0",
+  "description": "Learning meteor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenruibin/meteor_beginning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenruibin/meteor_beginning/issues"
+  },
+  "homepage": "https://github.com/chenruibin/meteor_beginning",
+  "dependencies": {
+    "gulp-react": "^3.0.1",
+    "webpack": "^1.12.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-gh-pages": "^0.4.0",
+    "gulp-open": "^0.3.1",
+    "gulp-rename": "^1.2.0",
+    "shelljs": "^0.3.0"
+  }
+}
